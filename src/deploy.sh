@@ -1,4 +1,6 @@
 #!/bin/bash
+# Script para emular kernel de prueba de 16 bits dando uso de qemu
+
 [ ! -f boot.asm ] && echo "[!] boot.asm no existe" && exit 1
 command -v nasm >/dev/null || sudo apt-get install -y nasm
 command -v qemu-system-x86_64 >/dev/null || sudo apt-get install -y qemu-system-x86
