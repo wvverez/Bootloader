@@ -1,3 +1,5 @@
+[![Donate me a coffee](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=99PC9L7CFB5ZL)
+
 # Bootloader x86 (16 bits) con NASM
 
 > [!TIP]
