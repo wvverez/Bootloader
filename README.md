@@ -1,14 +1,12 @@
 --- 
-# Modo de uso para prueba
 
-```Java
-[Archivo Principal](https://raw.githubusercontent.com/wvverez/Bootloader/main/src/boot.asm)
-```
+## Archivos Necesarios
 
-```Java
-[Para desplegarlo usando emulador](https://raw.githubusercontent.com/wvverez/Bootloader/main/src/deploy.sh)
-```
 
-```Java
-[Para eliminar los archivos requeridos una vez testeado](https://raw.githubusercontent.com/wvverez/Bootloader/main/src/clean.sh)
-```
+- [Archivo Principal](/src/boot.asm)
+
+- [Emular con qemu](/src/deploy.sh)
+
+- [Limpieza archivos generados](/src/clean.sh)
+
+## Modo de uso 
