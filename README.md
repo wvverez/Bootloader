@@ -27,3 +27,13 @@ cd src
 chmod +x deploy.sh && chmod +x clean.sh
 bash deploy.sh
 ```
+
+<p align="center">
+  <a href="https://www.star-history.com/#wvverez/Bootloader&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=wvverez/Bootloader&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=wvverez/Bootloader&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=wvverez/Bootloader&type=Date" />
+    </picture>
+  </a>
+</p>
