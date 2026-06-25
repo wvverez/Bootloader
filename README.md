@@ -12,11 +12,11 @@
 ## Archivos Necesarios
 
 
-- [Archivo Principal](/src/boot.asm)
+- [Archivo](/src/boot.asm)
 
-- [Emular con qemu](/src/deploy.sh)
+- [Desplegar](/src/deploy.sh)
 
-- [Limpieza archivos generados](/src/clean.sh)
+- [Eliminar](/src/clean.sh)
 
 ## Modo de uso 
 
